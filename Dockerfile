@@ -1,5 +1,4 @@
-# Use the latest official Python image.
-FROM python:latest
+FROM python:3.10-slim
 
 
 # create the working directory
