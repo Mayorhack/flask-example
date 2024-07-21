@@ -12,8 +12,6 @@ RUN pip install -r requirements.txt
 
 # Copy all files to the current working directory
 COPY . .
-
-
 # expose port
 EXPOSE 5000
 
