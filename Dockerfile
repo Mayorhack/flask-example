@@ -15,6 +15,8 @@ COPY . .
 # expose port
 EXPOSE 5000
 
+
+
 ENV FLASK_APP=main.py
 
 # Run the application
